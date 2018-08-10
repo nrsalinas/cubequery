@@ -1,1 +1,1 @@
-output = xarray0
+output = xarr0
